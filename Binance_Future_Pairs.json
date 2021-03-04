@@ -1,5 +1,5 @@
 
-ETH & BTC AT THIS TIME NOT SUPPORTET!!
+//ETH & BTC AT THIS TIME NOT SUPPORTET!!
 {
   "coins" : ["EOSUSDT", "SUSHIUSDT", "CVCUSDT", "BTSUSDT", "BALUSDT",
              "LUNAUSDT", "KNCUSDT", "SRMUSDT", "ENJUSDT", "ZRXUSDT",
@@ -21,3 +21,4 @@ ETH & BTC AT THIS TIME NOT SUPPORTET!!
              "ZILUSDT", "AXSUSDT","OCEANUSDT", "GRTUSDT", "CHZUSDT",
              "FTMUSDT" ],
 }
+// There are a total of 91 Pairs.
